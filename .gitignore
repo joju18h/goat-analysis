@@ -1,0 +1,12 @@
+# Python virtual environment (each person makes their own)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Downloaded data - can always be re-downloaded, too big for git
+data/
+
+# Mac junk
+.DS_Store

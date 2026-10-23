@@ -1,0 +1,4 @@
+statsbombpy   # downloads StatsBomb's free football data
+pandas        # tables of data (like Excel, but in code)
+matplotlib    # charts
+mplsoccer     # draws football pitches for matplotlib
