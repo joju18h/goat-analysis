@@ -1,4 +1,4 @@
-# La Pulga Lab 🐐
+# goat-analysis 🐐
 
 Building an expected goals (xG) model from scratch using StatsBomb's free event data from Lionel Messi's Barcelona career, then using it to measure how much better than "expected" Messi actually was.
 
